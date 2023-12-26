@@ -1,0 +1,18 @@
+{
+    "name": "programmerzamannow/belajar-php-rabbitmq",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Programmerzamannow\\BelajarPhpRabbitmq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eko Kurniawan Khannedy",
+            "email": "echo.khannedy@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.6"
+    }
+}
